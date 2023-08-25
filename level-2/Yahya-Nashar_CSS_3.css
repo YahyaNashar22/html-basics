@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    background-color: #1c221b;
+    color: white;
+}
+menu{
+    text-align: center;
+    background-color: #8aa39b;
+    color: white;
+}
+img{
+    width: 20em;
+    height:30em;
+    position: relative;
+    left:54em;
+}
+ul{
+    font-size: large;
+    background-color: #efb0a1;
+    padding-left:55em;
+}
+a{
+    text-decoration: none;
+    position:absolute;
+    left:39em;
+    border:dashed 2px #efb0a1;
+    padding:3em;
+    font-size: 24px;
+}
+a:hover{
+    background-color: #efb0a1 ;
+    color:white;
+}
